@@ -11,6 +11,5 @@ This application supports the following sorting algorithms:
 4. **Merge Sort**.
 5. **Quick Sort**.
 
-6. 
-7. Desktop View:)
+Desktop View:)
 ![desktop-sort-visualizer](https://github.com/honeyvikash/Sorting_Visualizer/assets/100141627/d44b05cb-aa09-4650-b494-b0951043cac6)

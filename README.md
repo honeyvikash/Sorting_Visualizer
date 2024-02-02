@@ -13,3 +13,7 @@ This application supports the following sorting algorithms:
 
 Desktop View:)
 ![desktop-sort-visualizer](https://github.com/honeyvikash/Sorting_Visualizer/assets/100141627/d44b05cb-aa09-4650-b494-b0951043cac6)
+
+Mobile View:)
+![mobile-sort-visualizer](https://github.com/honeyvikash/Sorting_Visualizer/assets/100141627/1ae740a2-6e75-4271-8a5c-b9267d25de69)
+
